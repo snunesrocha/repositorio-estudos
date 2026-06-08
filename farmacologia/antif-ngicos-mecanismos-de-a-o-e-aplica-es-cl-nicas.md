@@ -9,15 +9,15 @@
   "perguntas": [
     {
       "id": 1,
-      "pergunta": "Com base no texto, discuta os mecanismos de ação dos principais grupos de antifúngicos (equinocandinas, azóis, poliênicos, alilaminas e flucitosina) e explique por que cada um deles é mais indicado para tratamentos específicos de infecções fúngicas."
+      "pergunta": "Com base no texto, discuta os mecanismos de ação dos principais grupos de antifúngicos (equinocandinas, azóis, poliênicos, alilaminas e flucitosina) e explique por que cada grupo age de forma específica sobre os fungos, destacando as diferenças entre eles."
     },
     {
       "id": 2,
-      "pergunta": "Análise a toxicidade e as interações medicamentosas associadas à administração de anfotericina B e voriconazol. Com base nesses aspectos, discuta as indicações e contraindicações de cada um desses antifúngicos em pacientes imunossuprimidos."
+      "pergunta": "Análise a importância da resistência aos antifúngicos e discuta os mecanismos pelos quais os fungos podem desenvolver resistência aos azóis, incluindo a mutação da enzima-alvo e a expressão de bombas de efluxo. Como isso afeta a terapêutica antifúngica?"
     },
     {
       "id": 3,
-      "pergunta": "Explique a importância da resistência aos azóis e como os fungos podem desenvolver essa resistência. Com base nesse conhecimento, discuta estratégias para prevenir a resistência e o tratamento de infecções fúngicas refratárias a esses medicamentos."
+      "pergunta": "Com base no texto, discuta as indicações e as principais características clínicas dos antifúngicos fluconazol, voriconazol e anfotericina B, destacando as vantagens e desvantagens de cada um em diferentes situações clínicas, como candidíase sistêmica, aspergilose invasiva e meningite criptocócica."
     }
   ]
 }
